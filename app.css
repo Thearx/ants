@@ -1,0 +1,23 @@
+
+
+
+div.navbar {
+  
+    display:inline;
+    flex-direction: column;
+
+   
+    padding-top: 1em;
+    padding-left: 1em;
+    
+   
+
+}
+
+div.navbar button{
+ 
+    margin:0px 0px 10px 0px;
+    left:0;
+    
+   
+}
